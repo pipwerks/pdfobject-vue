@@ -1,9 +1,11 @@
 # pdfobject-vue
 A PDFObject component for Vue 3 projects
 
-Creates a `<PDFObject>` Vue component. Pass the URL of the PDF via the `url` parameter (String), and any desired options via the `:options` (Object). Note the binding via colon `:options`. PDFObject options are explained at [PDFObject.com](https://pdfobject.com). 
+Creates a `<PDFObject>` Vue component, enabling easy PDF embedding in any Vue 3 project. Pass the URL of the PDF via the `url` parameter (String), and any desired options via the `:options` (Object). Note the binding via colon `:options`. 
 
-Assumes PDFObject has been installed via NPM. `npm install pdfobject`
+A full list of PDFObject options (and examples) can be found at [PDFObject.com](https://pdfobject.com). 
+
+Assumes PDFObject has also been installed via NPM. `npm install pdfobject`
 
 ## Example
 
