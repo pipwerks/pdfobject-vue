@@ -24,6 +24,10 @@ app.mount('#app');
 ```
 
 ## Links
+PDFObject documentation https://pdfobject.com
+
+PDFObject source code https://github.com/pipwerks/pdfobject
+
 Test project for this plugin/component: https://github.com/pipwerks/PDFObject-Vue-Test
 
 NPM: https://www.npmjs.com/package/pdfobject-vue 
