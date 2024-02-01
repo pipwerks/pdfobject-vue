@@ -1,6 +1,13 @@
 {
   "name": "pdfobject-vue",
   "version": "0.0.1",
+  "description": "Official PDFObject component for Vue 3",
+  "license": "MIT",
+  "author": "Philip Hutchison <philip@pipwerks.com> (http://pipwerks.com)",
+  "bugs": {
+    "url": "https://github.com/pipwerks/pdfobject-vue/issues"
+  },
+  "homepage": "https://github.com/pipwerks/pdfobject-vue#readme",
   "main": "dist/pdfobject-vue.umd.js",
   "module": "dist/pdfobject-vue.es.js",
   "files": [
