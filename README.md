@@ -22,3 +22,8 @@ const app = createApp(App);
 app.use(PDFObjectVuePlugin);
 app.mount('#app');
 ```
+
+## Links
+Test project for this plugin/component: https://github.com/pipwerks/PDFObject-Vue-Test
+
+NPM: https://www.npmjs.com/package/pdfobject-vue 
