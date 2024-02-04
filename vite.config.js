@@ -7,7 +7,7 @@ export default defineConfig({
   build: {
     lib: {
       entry: resolve(__dirname, 'src/index.js'),
-      name: 'PDFObjectVuePlugin',
+      name: 'PdfObjectVuePlugin',
       fileName: (format) => `pdfobject-vue.${format}.js`
     },
     rollupOptions: {

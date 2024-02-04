@@ -1,6 +1,6 @@
 {
   "name": "pdfobject-vue",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Official PDFObject component for Vue 3",
   "license": "MIT",
   "author": "Philip Hutchison <philip@pipwerks.com> (http://pipwerks.com)",
@@ -26,6 +26,6 @@
   },
   "peerDependencies": {
     "vue": "^3.0.0",
-    "pdfobject": "^2.2.11"
+    "pdfobject": "^2.2.12"
   }
 }
