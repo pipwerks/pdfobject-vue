@@ -29,6 +29,18 @@ app.use(PDFObjectPlugin);
 app.mount('#app');
 ```
 
+Or to import in a single component
+```
+<script setup>
+import { PdfObject } from 'pdfobject-vue';
+</script>
+<template>
+<div>
+  <PdfObject url="/pdf/sample.pdf" />
+</div>
+</template>
+```
+
 ## Links
 PDFObject documentation https://pdfobject.com
 

@@ -6,4 +6,7 @@ const PDFObjectVuePlugin = {
   }
 };
 
+
+export { PDFObjectComponent as PdfObject };
+
 export default PDFObjectVuePlugin;
